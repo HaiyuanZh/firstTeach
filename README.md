@@ -1,2 +1,4 @@
 # firstTeach
-教亮亮嘉奕丁学习github
+
+这个文件是一个说明文件
+
